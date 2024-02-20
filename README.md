@@ -1,5 +1,7 @@
 ![logo](https://github.com/KRISHANKANT670/KRISHANKANT670/blob/main/kk3.gif)
 
+<img align="right" alt="coding" width="100%" src="https://github.com/KRISHANKANT670/KRISHANKANT670/blob/main/kk3.gif">
+
 <h1 align="center">Hi 👋, I'm Krishankant Yadav</h1>
 <h3 align="center">A passionate Data Science developer from India</h3>
 
