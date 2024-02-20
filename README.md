@@ -1,4 +1,4 @@
-![logo](https://github.com/KRISHANKANT670/KRISHANKANT670/blob/main/kk3.gif)
+
 
 <img align="right" alt="coding" width="100%" src="https://github.com/KRISHANKANT670/KRISHANKANT670/blob/main/kk3.gif">
 
